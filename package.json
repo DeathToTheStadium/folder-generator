@@ -1,0 +1,27 @@
+{
+  "name": "folder-generator",
+  "version": "1.0.0",
+  "description": "This Web App Is A Automation Tool Designed To Ease The Work And Time To Create Folder Strucuture natively on the computer",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"App Running\")",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathToTheStadium/folder-generator.git"
+  },
+  "keywords": [
+    "Folder-generator",
+    "folder-maker"
+  ],
+  "author": "Joseph Anthony San Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeathToTheStadium/folder-generator/issues"
+  },
+  "homepage": "https://github.com/DeathToTheStadium/folder-generator#readme",
+  "devDependencies": {
+    "electron": "^18.0.1"
+  }
+}
